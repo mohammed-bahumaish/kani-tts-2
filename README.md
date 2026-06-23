@@ -643,7 +643,7 @@ If you use this code in your research, please cite:
 ```
 ## vLLM Integration
 
-Coming soon.
+[mohammed-bahumaish/kani-tts-2-vllm](https://github.com/mohammed-bahumaish/kani-tts-2-vllm)
 
 ## Tech Report
 
